@@ -1,0 +1,3 @@
+/Users/krewie/Desktop/datorgrafik_projekt/part1/build/linux/glfw/src/CMakeFiles/glfw.dir
+/Users/krewie/Desktop/datorgrafik_projekt/part1/build/linux/CMakeFiles/part1.dir
+/Users/krewie/Desktop/datorgrafik_projekt/part1/build/linux/glfw/CMakeFiles/uninstall.dir

@@ -1,0 +1,8 @@
+/Users/krewie/Desktop/datorgrafik_projekt/part1/bin/part1
+/Users/krewie/Desktop/datorgrafik_projekt/part1/include/GLFW/glfw3.h
+/Users/krewie/Desktop/datorgrafik_projekt/part1/include/GLFW/glfw3native.h
+/Users/krewie/Desktop/datorgrafik_projekt/part1/lib/cmake/glfw/glfw3Config.cmake
+/Users/krewie/Desktop/datorgrafik_projekt/part1/lib/cmake/glfw/glfw3ConfigVersion.cmake
+/Users/krewie/Desktop/datorgrafik_projekt/part1/lib/cmake/glfw/glfwTargets.cmake
+/Users/krewie/Desktop/datorgrafik_projekt/part1/lib/pkgconfig/glfw3.pc
+/Users/krewie/Desktop/datorgrafik_projekt/part1/lib/libglfw3.a
