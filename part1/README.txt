@@ -1,7 +1,3 @@
-Computer Graphics, Assignment 3, Part 1
-=======================================
-
-
 Build instructions for Linux
 ============================
 
@@ -64,6 +60,3 @@ on-the-fly when you build the assignment programs.
 If you cannot get CMake working, try to set up an XCode project
 manually. The part1.cpp and part2.cpp files shows you which files and
 dependencies you need.
-
-
-/Johan
