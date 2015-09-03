@@ -1,6 +1,6 @@
 
 
-<video src="https://github.com/krewie/toonshading/blob/master/documentation/bunny.mp4" width="320" height="200" controls preload></video>
+[[ https://github.com/krewie/toonshading/blob/master/documentation/bunny.gif]]
 
 
 Instructions:
