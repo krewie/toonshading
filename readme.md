@@ -28,8 +28,7 @@ The approach i used was using a variation
 of the blinn phong shading model. In order
 to color the outlines of the 3D model,
 a simple edge detection had to be implemented.
-This was done by using Lamberts
-cosine law to recognize the angle at which
+This was done by using [Lamberts cosine law](https://en.wikipedia.org/wiki/Lambert%27s_cosine_law) to recognize the angle at which
 the fragments should be colored with a outline
 color. The results are not perfect for
 a toon shading since the outline color can
@@ -39,7 +38,7 @@ model is rotated, it does however color the
 outline of inner structures of the 3D model.
 In the openGL program, the parameters for
 outline color and intensity can be configured
-with the provided anttweakbar. The
+with the provided [anttweakbar](http://anttweakbar.sourceforge.net/doc/). The
 ambient color is restricted to a maximum
 number of colors which can also be configured
 within the program, it exagerates the
